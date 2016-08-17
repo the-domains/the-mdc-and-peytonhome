@@ -1,0 +1,29 @@
+name: THE MDC & PEYTONHOME
+favicon: null
+layout_spectrum: 0.46745484601706266
+typography_spectrum: 0.3470120062120259
+title: INTERIOR DESIGN SHOWROOMS & ORDERING RESOURCE
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5408168218564242
+  lightness: 0.7555558278691024
+  saturation: 0.7909918606746942
+  rhythmicContrast: 0.6693549153860658
+purpose: []
